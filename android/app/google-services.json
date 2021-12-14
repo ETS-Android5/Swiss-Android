@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871940203949",
+    "project_id": "yqgon-e1891",
+    "storage_bucket": "yqgon-e1891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871940203949:android:3e596060b1aba453e9ad24",
+        "android_client_info": {
+          "package_name": "com.swiss.med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871940203949-cu5amno98jas3bg1et86knieak2a0qek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoURiOlfzftOuswOA_k1BDRXSclCjNhcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871940203949-cu5amno98jas3bg1et86knieak2a0qek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
